@@ -1,16 +1,11 @@
-# lub_3
+# Лабораторная работа №3 - Магазин с 15-ю товарами (listView)
+## Экран авторизации
+![image](https://github.com/cyph3r322/lub3/assets/144318326/6538e0f1-5dc6-4d8f-8e23-d5f8643a8c2a)
+## Экран регистрации
+![image](https://github.com/cyph3r322/lub3/assets/144318326/48969713-ab91-4ede-a26b-46c6924e6284)
 
-A new Flutter project.
+## Главный экран с товарами
+![image](https://github.com/cyph3r322/lub3/assets/144318326/20aceb6d-0104-49a9-bb8b-9a16ab108cc8)
+## Экран с детальной информацией о товаре
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/cyph3r322/lub3/assets/144318326/4aa7b9d8-847e-49c2-b9e6-fc7cfa88545e)
